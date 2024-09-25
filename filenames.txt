@@ -1,0 +1,3 @@
+uppercase.txt
+sentences.txt
+sortData.txt
